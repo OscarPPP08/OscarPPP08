@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, hi there 👋
 
 <!--
 **OscarPPP08/OscarPPP08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
